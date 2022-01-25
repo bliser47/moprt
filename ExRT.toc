@@ -1,0 +1,29 @@
+## Interface: 50400
+## Title: Exorsus Raid Tools
+## Author: ykiigor
+## Notes: Exorsus Raid Tools
+## SavedVariables: VExRT
+## Version: 2567
+core.lua
+Templates.xml
+ExLib.lua
+localization\localization.ru.lua
+localization\localization.en.lua
+localization\localization.lua
+BlizzFix.lua
+Options.lua
+ExCD2.lua
+BossWatcher.lua
+InspectViewer.lua
+Note.lua
+RaidCheck.lua
+InviteTool.lua
+AutoBuy.lua
+MarksBar.lua
+Timers.lua
+Coins.lua
+RaidLoot.lua
+CSpells.lua
+Bossmods.lua
+Encounter.lua
+Pets.lua
